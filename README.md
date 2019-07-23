@@ -8,5 +8,5 @@ conda install.
 
 As bibliotecas utilizadas neste notebook foram Pandas, Matplotlib e Scikit-learn.
 
-Para baixar o Miniconda: https://docs.conda.io/en/latest/miniconda.html \n
-Para baixar o Anaconda: https://www.anaconda.com/distribution/
+* Para baixar o Miniconda: https://docs.conda.io/en/latest/miniconda.html 
+* Para baixar o Anaconda: https://www.anaconda.com/distribution/
